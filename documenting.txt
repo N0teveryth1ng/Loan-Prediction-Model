@@ -1,0 +1,2 @@
+1. Constantly adding and testing file routes as it. Over the last few hours it has been very brutal to keep track of all
+   codes and implications
